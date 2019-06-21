@@ -1,7 +1,7 @@
 ---
 # permalink: /research/legal/
 layout: post
-title: Legal
+title: Legal (coming soon)
 sidenav: research
 sticky_sidenav: true
 ---
